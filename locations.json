@@ -1,0 +1,175 @@
+{
+    "North America": {
+        "Washington DC United States": {
+            "latitude": 38.8950368,
+            "longitude": -77.0365427
+        },
+        "Ottawa Canada": {
+            "latitude": 45.4208777,
+            "longitude": -75.6901106
+        },
+        "Mexico City Mexico": {
+            "latitude": 19.4326296,
+            "longitude": -99.1331785
+        },
+        "San Salvador El Salvador": {
+            "latitude": 13.6989939,
+            "longitude": -89.1914249
+        },
+        "Tegucigalpa Honduras": {
+            "latitude": 14.1057433,
+            "longitude": -87.2040052
+        },
+        "Managua Nicaragua": {
+            "latitude": 12.1544035,
+            "longitude": -86.2737642
+        },
+        "San Jose Costa Rica": {
+            "latitude": 9.9325427,
+            "longitude": -84.0795782
+        },
+        "Panama City Panama": {
+            "latitude": 8.9714493,
+            "longitude": -79.5341802
+        }
+    },
+    "Caribbean": {
+        "Havana Cuba": {
+            "latitude": 23.1339,
+            "longitude": -82.366592
+        },
+        "Santo Domingo Dominican Republic": {
+            "latitude": 18.4801972,
+            "longitude": -69.942111
+        },
+        "Port-au-Prince Haiti": {
+            "latitude": 18.547327,
+            "longitude": -72.3395928
+        },
+        "Kingston Jamaica": {
+            "latitude": 17.9712148,
+            "longitude": -76.7928128
+        },
+        "Nassau Bahamas": {
+            "latitude": 25.0782266,
+            "longitude": -77.3383438
+        },
+        "San Juan Puerto Rico": {
+            "latitude": 18.384239049999998,
+            "longitude": -66.05343997364733
+        },
+        "Port of Spain Trinidad and Tobago": {
+            "latitude": 10.6572678,
+            "longitude": -61.5180173
+        },
+        "Bridgetown Barbados": {
+            "latitude": 13.0977832,
+            "longitude": -59.6184184
+        },
+        "St. John's Antigua and Barbuda": {
+            "latitude": 17.1274,
+            "longitude": -61.8468
+        },
+        "Roseau Dominica": {
+            "latitude": 15.2994,
+            "longitude": -61.3900
+        },
+        "St. George's Grenada": {
+            "latitude": 12.0561,
+            "longitude": -61.7486
+        },
+        "Basseterre Saint Kitts and Nevis": {
+            "latitude": 17.3026,
+            "longitude": -62.7177
+        },
+        "Castries Saint Lucia": {
+            "latitude": 14.0101,
+            "longitude": -60.9875
+        },
+        "Kingstown Saint Vincent and the Grenadines": {
+            "latitude": 13.1600,
+            "longitude": -61.2248
+        }
+    },
+    "South America": {
+        "Brasilia Brazil": {
+            "latitude": -10.3333333,
+            "longitude": -53.2
+        },
+        "Buenos Aires Argentina": {
+            "latitude": -34.6037,
+            "longitude": -58.3816
+        },
+        "Lima Peru": {
+            "latitude": -12.0621065,
+            "longitude": -77.0365256
+        },
+        "Bogota Colombia": {
+            "latitude": 4.6533816,
+            "longitude": -74.0836333
+        },
+        "Santiago Chile": {
+            "latitude": -33.4377756,
+            "longitude": -70.6504502
+        },
+        "Caracas Venezuela": {
+            "latitude": 10.5060934,
+            "longitude": -66.9146008
+        },
+        "Quito Ecuador": {
+            "latitude": -0.2201641,
+            "longitude": -78.5123274
+        },
+        "La Paz Bolivia": {
+            "latitude": -16.4955455,
+            "longitude": -68.1336229
+        },
+        "Asuncion Paraguay": {
+            "latitude": -25.2800459,
+            "longitude": -57.6343814
+        },
+        "Montevideo Uruguay": {
+            "latitude": -34.9058916,
+            "longitude": -56.1913095
+        },
+        "Georgetown Guyana": {
+            "latitude": 6.8137426,
+            "longitude": -58.1624465
+        },
+        "Paramaribo Suriname": {
+            "latitude": 5.8241764499999995,
+            "longitude": -55.16628130970069
+        }
+    },
+    "Central America": {
+        "Belmopan Belize": {
+            "latitude": 17.250199,
+            "longitude": -88.770018
+        },
+        "Guatemala City Guatemala": {
+            "latitude": 14.6416142,
+            "longitude": -90.5132836
+        },
+        "San Salvador El Salvador": {
+            "latitude": 13.6989939,
+            "longitude": -89.1914249
+        },
+        "Tegucigalpa Honduras": {
+            "latitude": 14.1057433,
+            "longitude": -87.2040052
+        },
+        "Managua Nicaragua": {
+            "latitude": 12.1544035,
+            "longitude": -86.2737642
+        },
+        "San Jose Costa Rica": {
+            "latitude": 9.9325427,
+            "longitude": -84.0795782
+        },
+        "Panama City Panama": {
+            "latitude": 8.9714493,
+            "longitude": -79.5341802
+        }
+    }
+    
+}
